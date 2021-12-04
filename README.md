@@ -11,3 +11,7 @@
 ## CODE AVAILABILITY
 
 Anaquin, the toolkit used in the sequins analyses, is freely available at https://www.sequinstandards.com and all scripts used to perform statistical analyses and generate plots can be found at https://github.com/almreis/Benchmark_ChrQ.
+
+## CITATION
+
+10.5281/zenodo.5758247
