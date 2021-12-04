@@ -14,4 +14,4 @@ Anaquin, the toolkit used in the sequins analyses, is freely available at https:
 
 ## CITATION
 
-10.5281/zenodo.5758247
+[![DOI](https://zenodo.org/badge/391838009.svg)](https://zenodo.org/badge/latestdoi/391838009)
